@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':chapter2.1.1-life'
 rootProject.name='My Application'
